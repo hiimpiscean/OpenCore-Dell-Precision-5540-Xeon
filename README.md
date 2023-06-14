@@ -3,7 +3,7 @@
 
 ## Configuration
 
-| Specifications | Detail                                                  |
+| Specifications | Details                                                  |
 | ------------------- | ------------------------------------------- |
 | Computer model      | Dell Precision 5540      |
 | Processor           | Intel Xeon E-2276M 6-core  |
