@@ -23,11 +23,10 @@
 - OpenCore version: 0.9.3
 - **Fingerprint sensor not working**
 - Everything else works, except Airdrop.
+- Audio patched and working correctly.
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values.
 - Find your's screen IODisplayEDID in ioreg and add AAPL00,override-no-connect in deviceProperties.
 
 ## To-do
 
-- Fix battery drain issues (not sure if it's battery-related problem)
 - Check TB3 port (no device to test)
-- Check microphone output port
