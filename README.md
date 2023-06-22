@@ -1,5 +1,10 @@
 # OpenCore-Dell-Precision-5540-Xeon
 
+## Images
+
+![Screen Shot 2023-06-22 at 21 43 15](https://github.com/hiimpiscean/OpenCore-Dell-Precision-5540-Xeon/assets/106610508/a3bdbaef-b0e2-4610-b0ac-3b0fb316e3a9)
+
+![Screen Shot 2023-06-22 at 21 44 59](https://github.com/hiimpiscean/OpenCore-Dell-Precision-5540-Xeon/assets/106610508/ad94e39d-e5fb-4892-98ef-72256582d06e)
 
 ## Configuration
 
