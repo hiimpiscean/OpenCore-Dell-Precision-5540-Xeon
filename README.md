@@ -27,6 +27,7 @@
 
 - OpenCore version: 0.9.3
 - **Fingerprint sensor not working**
+- **Apple TV+ not working due to dGPU not supported**
 - Everything else works, except Airdrop.
 - Audio patched and working correctly.
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values.
