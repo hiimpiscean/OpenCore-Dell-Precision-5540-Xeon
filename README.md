@@ -11,8 +11,8 @@
 | Specifications | Details                                                  |
 | ------------------- | ------------------------------------------- |
 | Computer model      | Dell Precision 5540      |
-| Processor           | Intel Xeon E-2276M 6-core  |
-| RAM                 | 16GB (1x16gb) 2666MHz, upgradable to 64GB |
+| Processor           | Intel Xeon E-2276M, 6 cores  |
+| RAM                 | 16GB (1x16GB) 2666MHz, upgradable to 64GB |
 | SSD                 | M.2 SATA 256GB WD Blue
 | OS                  | macOS Catalina 10.15.7 + Windows 10, Grub bootloader included|
 | Integrated Graphics | Intel UHD Graphics 630 / NVIDIA Quadro T2000 (Disabled)      |
