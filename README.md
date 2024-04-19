@@ -18,7 +18,7 @@
 | Integrated Graphics | Intel UHD Graphics 630 / NVIDIA Quadro T2000 (Disabled)      |
 | Monitor             | FHD 1920x1080 non-touchscreen (15.6") |
 | Sound Card          | Realtek ALC3266 (ALC298)          |
-| Wireless Card       | Intel AX201 + Bluetooth |
+| Wireless Card       | Intel AX201 + Bluetooth, upgraded to DW1830|
 
 ## Misc before install:
 - Unlock CFG: From GRUB: set_var_3 0x6ED 0x00, **will kernel panic if not set**
