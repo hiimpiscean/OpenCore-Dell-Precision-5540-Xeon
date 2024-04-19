@@ -28,11 +28,11 @@
 - OpenCore version: 0.9.3
 - **Fingerprint sensor not working**
 - **Apple TV+ not working due to dGPU not supported**
-- Everything else works, except Airdrop.
+- Everything else works, including AirDrop.
 - Audio patched and working correctly.
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values.
 - Find your's screen IODisplayEDID in ioreg and add AAPL00,override-no-connect in deviceProperties.
 
 ## To-do
 
-- Check TB3 port (no device to test)
+- Check TB3 port (no device to test), USB-C working perfectly.
