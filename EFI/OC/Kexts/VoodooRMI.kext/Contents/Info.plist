@@ -51,7 +51,7 @@
 				<key>DisableWhileTrackpointTimeout </key>
 				<integer>250</integer>
 				<key>DisableWhileTypingTimeout</key>
-				<integer>250</integer>
+				<integer>300</integer>
 				<key>FingerMajorMinorDiffMax</key>
 				<integer>10</integer>
 				<key>ForceTouchMinPressure</key>
@@ -59,7 +59,7 @@
 				<key>ForceTouchType</key>
 				<integer>1</integer>
 				<key>MinYDiffThumbDetection</key>
-				<integer>200</integer>
+				<integer>150</integer>
 				<key>PalmRejectionHeight</key>
 				<integer>60</integer>
 				<key>PalmRejectionTrackpointHeight</key>
